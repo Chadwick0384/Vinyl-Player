@@ -2,7 +2,7 @@
   "name": "vinyl-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Chadwick0384/Vinyl-Player",
+  "homepage": "https://chadwick0384.github.io/Vinyl-Player",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
