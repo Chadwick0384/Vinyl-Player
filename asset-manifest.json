@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Chadwick0384/Vinyl-Player/static/css/main.77551ddc.chunk.css",
-    "main.js": "/Chadwick0384/Vinyl-Player/static/js/main.0a867de7.chunk.js",
-    "main.js.map": "/Chadwick0384/Vinyl-Player/static/js/main.0a867de7.chunk.js.map",
-    "runtime-main.js": "/Chadwick0384/Vinyl-Player/static/js/runtime-main.e03f8bd9.js",
-    "runtime-main.js.map": "/Chadwick0384/Vinyl-Player/static/js/runtime-main.e03f8bd9.js.map",
-    "static/js/2.e3c20b62.chunk.js": "/Chadwick0384/Vinyl-Player/static/js/2.e3c20b62.chunk.js",
-    "static/js/2.e3c20b62.chunk.js.map": "/Chadwick0384/Vinyl-Player/static/js/2.e3c20b62.chunk.js.map",
-    "static/js/3.3e1a015c.chunk.js": "/Chadwick0384/Vinyl-Player/static/js/3.3e1a015c.chunk.js",
-    "static/js/3.3e1a015c.chunk.js.map": "/Chadwick0384/Vinyl-Player/static/js/3.3e1a015c.chunk.js.map",
-    "index.html": "/Chadwick0384/Vinyl-Player/index.html",
-    "static/css/main.77551ddc.chunk.css.map": "/Chadwick0384/Vinyl-Player/static/css/main.77551ddc.chunk.css.map",
-    "static/js/2.e3c20b62.chunk.js.LICENSE.txt": "/Chadwick0384/Vinyl-Player/static/js/2.e3c20b62.chunk.js.LICENSE.txt",
-    "static/media/app.scss": "/Chadwick0384/Vinyl-Player/static/media/vinylback.fbf9c819.jpeg"
+    "main.css": "/Vinyl-Player/static/css/main.78bd380d.chunk.css",
+    "main.js": "/Vinyl-Player/static/js/main.0a867de7.chunk.js",
+    "main.js.map": "/Vinyl-Player/static/js/main.0a867de7.chunk.js.map",
+    "runtime-main.js": "/Vinyl-Player/static/js/runtime-main.c5b6f348.js",
+    "runtime-main.js.map": "/Vinyl-Player/static/js/runtime-main.c5b6f348.js.map",
+    "static/js/2.e3c20b62.chunk.js": "/Vinyl-Player/static/js/2.e3c20b62.chunk.js",
+    "static/js/2.e3c20b62.chunk.js.map": "/Vinyl-Player/static/js/2.e3c20b62.chunk.js.map",
+    "static/js/3.3e1a015c.chunk.js": "/Vinyl-Player/static/js/3.3e1a015c.chunk.js",
+    "static/js/3.3e1a015c.chunk.js.map": "/Vinyl-Player/static/js/3.3e1a015c.chunk.js.map",
+    "index.html": "/Vinyl-Player/index.html",
+    "static/css/main.78bd380d.chunk.css.map": "/Vinyl-Player/static/css/main.78bd380d.chunk.css.map",
+    "static/js/2.e3c20b62.chunk.js.LICENSE.txt": "/Vinyl-Player/static/js/2.e3c20b62.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/Vinyl-Player/static/media/vinylback.fbf9c819.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e03f8bd9.js",
+    "static/js/runtime-main.c5b6f348.js",
     "static/js/2.e3c20b62.chunk.js",
-    "static/css/main.77551ddc.chunk.css",
+    "static/css/main.78bd380d.chunk.css",
     "static/js/main.0a867de7.chunk.js"
   ]
 }
